@@ -1,0 +1,47 @@
+# Getting started
+
+## Initialize a new repository
+
+Create a new directory for your code, and then initialize it as a git repo:
+
+```
+mkdir my-repo
+cd my-repo
+git init
+```
+
+
+## Clone an existing repository
+
+```
+git clone git@bitbucket.org/nsidc:git-training.git
+```
+
+
+# Navigating the git tree
+
+## Checking out a ref (tag/branch/commit)
+
+TODO
+
+
+## Comparing branches
+
+TODO
+
+
+## Getting remote code from a server (e.g. GitHub/Bitbucket)
+
+TODO
+
+
+# Contributing to a git repository
+
+## Creating a new branch
+
+TODO
+
+
+## Pushing local code to a remote server (e.g. GitHub/Bitbucket)
+
+TODO
