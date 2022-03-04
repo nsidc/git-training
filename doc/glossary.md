@@ -35,13 +35,13 @@ adding the "bar" line:
 
 ## Changeset
 
-A collection of at least one patch to at least one file.
+A collection of at least one _patch_ to at least one file.
 
 
 ## Commit
 
 A git object (with associated metadata, e.g. author, date, hash, message)
-representing a single changeset or patch.
+representing a single _changeset_.
 
 
 ### Commit hash
@@ -49,9 +49,16 @@ representing a single changeset or patch.
 A unique identifier generated randomly for every commit.
 
 
-## Tree
+## Tree / History
 
 A collection of commits, each linked by reference(s) to parent commit(s).
+
+It's called a "tree" because each commit is linked to at least one parent,
+forming a tree shape. A "leaf" commit has no children, and the "root" commit
+has no parents.
+
+It's also called a "history" because the full history of all changesets is
+present in the git tree.
 
 
 ### Ref
@@ -68,6 +75,23 @@ TODO
 ### Branch
 
 TODO
+
+
+## Working tree
+
+On your local machine, the files on disk are called the "working tree".
+
+When you edit a file in your working tree, the working tree is considered
+"dirty". It's considered clean when there are no changes in the working tree
+compared to the currently checked-out ref.
+
+
+## Checkout
+
+When you "checkout" a ref, you are updating your working tree to reflect that
+ref. Once you've checked out a ref, you can now open a file in an editor and
+see its contents at that point of the history.
+
 
 
 ## Remote
