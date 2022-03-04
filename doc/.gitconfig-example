@@ -1,0 +1,31 @@
+[user]
+  email = your.name@nsidc.org
+  name = Your Name
+
+[core]
+  editor = vim
+  autocrlf = input
+  whitespace = cr-at-eol
+  excludesfile = ~/.gitignore_global
+
+[color]
+  ui = true
+
+[alias]
+  lol = log --graph --decorate --oneline
+  lola = log --graph --decorate --oneline --all
+  root = rev-parse --show-toplevel
+  new = !git init && git symbolic-ref HEAD refs/heads/main
+
+# Command-specific settings:
+[init]
+  defaultBranch = main
+
+[merge]
+  conflictstyle = merge
+
+[push]
+  default = simple
+
+[pull]
+  rebase = false
