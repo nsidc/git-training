@@ -22,7 +22,14 @@ git clone git@bitbucket.org/nsidc:git-training.git
 
 ## Checking out a ref (tag/branch/commit)
 
-TODO
+```
+git switch <ref>
+```
+
+_git <v2.23 (not recommended):_
+```
+git checkout <ref>
+```
 
 
 ## Comparing branches
@@ -39,7 +46,16 @@ TODO
 
 ## Creating a new branch
 
-TODO
+Create a new branch and switch to it:
+
+```
+git switch -c <branchname>
+```
+
+_git <v2.23 (not recommended):_
+```
+git checkout -b <branchname>
+```
 
 
 ## Pushing local code to a remote server (e.g. GitHub/Bitbucket)
