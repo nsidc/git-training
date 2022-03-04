@@ -60,3 +60,9 @@ Learn to use `git`!
   reflect in a ReadTheDocs site.
 
 * Should it be something that can be optionally "run" using docker?
+
+
+## Resources
+
+* TODO: Link to some git tools, e.g. for visualizing git tree, integrating git
+  with IDEs, whatever.
