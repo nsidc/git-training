@@ -1,6 +1,6 @@
 # Git Training
 
-![git logo](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
+![git logo](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 
 Learn to use `git`!
 
