@@ -14,17 +14,18 @@ Learn to use `git`!
     * _NOTE: What version do you have? Try to install a version `>= v2.23`._
 
 * **Basic Git setup:**
-  * Set up your `~/.gitconfig` file. [Example](./doc/.gitconfig-example)
-  * Create a directory for all your git repositories to live in, e.g.
-    `~/Projects`.
+    * Set up your `~/.gitconfig` file. [Example](./doc/.gitconfig-example)
+    * Create a directory for all your git repositories to live in, e.g.
+      `~/Projects`.
 
 * **Bitbucket configured:**
-  * Account created.
-  * Bitbucket access to [NSIDC organization](bitbucket.org/nsidc/). Ask any
-    developer to add you.
-  * Member of the [Tech training](https://bitbucket.org/nsidc/workspace/settings/groups/tech-training)
-    group in NSIDC Bitbucket organization. Ask any developer to add you.
-  * SSH keys configured for your Bitbucket account. TODO: Link
+    * Account created.
+    * Bitbucket access to [NSIDC organization](bitbucket.org/nsidc/). Ask any
+      developer to add you.
+    * Member of the
+      [Tech training](https://bitbucket.org/nsidc/workspace/settings/groups/tech-training)
+      group in NSIDC Bitbucket organization. Ask any developer to add you.
+    * SSH keys configured for your Bitbucket account. TODO: Link
 
 * **Prepared to learn something broadly accessible, but hard.** Like learning
   to ride a bike, to swim, to ski, solder, perform long division, drive a car,
