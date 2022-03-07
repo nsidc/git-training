@@ -7,34 +7,34 @@ Learn to use `git`!
 
 ## Prerequisites
 
-* Git!
+* **Git!**
     * Linux: `apt install git`
     * OSX: `brew install git` TODO: ? Add Homebrew install instructions?
     * Windows: Install *Git Bash*. TODO: Link, etc.
     * _NOTE: What version do you have? Try to install a version `>= v2.23`._
 
-* Set up your `~/.gitconfig` file. [Example](./doc/.gitconfig-example)
+* **Basic Git setup:**
+  * Set up your `~/.gitconfig` file. [Example](./doc/.gitconfig-example)
+  * Create a directory for all your git repositories to live in, e.g.
+    `~/Projects`.
 
-* Create a directory for all your git repositories to live in, e.g.
-  `~/Projects`.
+* **Bitbucket configured:**
+  * Account created.
+  * Bitbucket access to [NSIDC organization](bitbucket.org/nsidc/). Ask any
+    developer to add you.
+  * Member of the [Tech training](https://bitbucket.org/nsidc/workspace/settings/groups/tech-training)
+    group in NSIDC Bitbucket organization. Ask any developer to add you.
+  * SSH keys configured for your Bitbucket account. TODO: Link
 
-* Bitbucket access to [NSIDC organization](bitbucket.org/nsidc/). Ask any
-  developer to add you.
-
-* Member of the [Tech training](https://bitbucket.org/nsidc/workspace/settings/groups/tech-training)
-  group in NSIDC Bitbucket organization. Ask any developer to add you.
-
-* SSH keys configured for your account. TODO: Link
-
-* Prepared to learn something broadly accessible, but hard. Like learning to
-  ride a bike, to swim, to ski, solder, perform long division, drive a car, or
-  to write a TPS report, learning to use `git` is not trivial, but it's also
+* **Prepared to learn something broadly accessible, but hard.** Like learning
+  to ride a bike, to swim, to ski, solder, perform long division, drive a car,
+  or to write a TPS report, learning to use `git` is not trivial, but it's also
   within your reach. It may take a few sessions, and you may feel challenged,
   frustration, even despair! But like any of the skills above, it's normal to
   feel those things; and it won't take long at all to reach the moment where
-  you feel massive satisfaction and pride in a new skill which will benefit
-  you for the rest of your career. If/when you feel stuck, please don't
-  hesitate to ask for help.
+  you feel massive satisfaction and pride in a new skill which will benefit you
+  for the rest of your career. If/when you feel stuck, please don't hesitate to
+  ask for help.
 
 
 ## The plan
