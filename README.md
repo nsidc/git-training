@@ -7,6 +7,9 @@ Learn to use `git`!
 
 ## Prerequisites
 
+* A text editor you are comfortable with. If you don't already have a favorite,
+  download [VSCode](https://code.visualstudio.com/).
+
 * **Git!**
     * Linux: `apt install git`
     * OSX: `brew install git` TODO: ? Add Homebrew install instructions?
