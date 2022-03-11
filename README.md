@@ -8,7 +8,8 @@ Learn to use `git`!
 ## Prerequisites
 
 * A text editor you are comfortable with. If you don't already have a favorite,
-  download [VSCode](https://code.visualstudio.com/).
+  download [VSCode](https://code.visualstudio.com/). If you use OSX, don't
+  forget to drag the downloaded icon to your `Applications` directory.
 
 * **Git!**
     * Linux: `apt install git`
