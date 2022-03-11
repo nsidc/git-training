@@ -25,7 +25,9 @@ Learn to use `git`!
     * Member of the
       [Tech training](https://bitbucket.org/nsidc/workspace/settings/groups/tech-training)
       group in NSIDC Bitbucket organization. Ask any developer to add you.
-    * SSH keys configured for your Bitbucket account. TODO: Link
+    * [SSH keys
+      configured](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
+      for your Bitbucket account.
 
 * **Prepared to learn something broadly accessible, but hard.** Like learning
   to ride a bike, to swim, to ski, solder, perform long division, drive a car,
