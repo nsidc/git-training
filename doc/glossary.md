@@ -96,9 +96,10 @@ see its contents at that point of the history.
 
 ## Remote
 
-A remote is just another git repository living on another computer that is
-accessible over the network using the git protocol. In other words, it's
-another repository online that you can talk to using the `git` CLI.
+A remote is just another git repository living on another computer (for the
+purposes of this course) that is accessible over the network using the Git
+protocol. In other words, it's another repository online that you can talk to
+using the `git` CLI.
 
 When you clone a repository, a remote is created called `origin` that points at
 the original repository you cloned (e.g. from GitHub or BitBucket).
