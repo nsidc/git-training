@@ -93,13 +93,12 @@ ref. Once you've checked out a ref, you can now open a file in an editor and
 see its contents at that point of the history.
 
 
-
 ## Remote
 
-A remote is just another git repository living on another computer (for the
+A remote is just a copy of a git repository living on another computer (for the
 purposes of this course) that is accessible over the network using the Git
 protocol. In other words, it's another repository online that you can talk to
-using the `git` CLI.
+using the `git` Command Line Interface (CLI).
 
 When you clone a repository, a remote is created called `origin` that points at
 the original repository you cloned (e.g. from GitHub or BitBucket).
