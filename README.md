@@ -22,8 +22,8 @@ Learn to use `git`!
     * Create a directory for all your git repositories to live in, e.g.
       `~/Projects`.
 
-* **Bitbucket configured:**
-    * Account created.
+* **Configure Bitbucket:**
+    * Create an account.
     * Bitbucket access to [NSIDC organization](bitbucket.org/nsidc/). Ask any
       developer to add you.
     * Member of the
