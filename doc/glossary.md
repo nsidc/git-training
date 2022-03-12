@@ -46,7 +46,8 @@ representing a single _changeset_.
 
 ### Commit hash
 
-A unique identifier generated randomly for every commit.
+A unique identifier generated deterministically for every commit based on the
+commit's data and metadata.
 
 
 ## Tree / History
