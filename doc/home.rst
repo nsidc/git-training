@@ -14,7 +14,11 @@ Welcome to the NSIDC Git Training. To get started, you may be interested in
 these pages:
 
 - :doc:`./reference/prerequisites`
-- Tutorials (TODO)
-- About this training (TODO)
-- :doc:`./reference/cheatsheet`
-- :doc:`./reference/glossary`
+- :doc:`./discussion/about_git`
+- Beginner tutorials:
+    - TODO
+- Common How Tos:
+    - TODO
+- Useful reference material:
+    - :doc:`./reference/cheatsheet`
+    - :doc:`./reference/glossary`
