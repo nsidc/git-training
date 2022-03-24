@@ -4,6 +4,8 @@
     :maxdepth: 1
     :hidden:
 
+    acknowledgements.md
+
 
 .. toctree::
     :name: Reference
