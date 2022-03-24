@@ -19,6 +19,5 @@
 
 
 ..
-    Add the contents of `home.md` to this page.
-.. include:: home.md
-    :parser: myst_parser.sphinx_
+    Add the contents of `home.rst` to this page.
+.. include:: home.rst
