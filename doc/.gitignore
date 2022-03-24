@@ -1,0 +1,2 @@
+# Don't commit any of the outputs of the build (e.g. HTML, LaTeX, PDF files):
+_build
