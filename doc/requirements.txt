@@ -1,0 +1,5 @@
+# Documentation requirements
+# 
+# These dependencies are sphinx-specific; Only for use to build docs!
+
+myst-parser==0.17.0

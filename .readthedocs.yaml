@@ -21,7 +21,6 @@ formats:
   - pdf
 
 
-# # If we need to add dependencies:
-# python:
-#   install:
-#     - requirements: doc/requirements.txt
+python:
+  install:
+    - requirements: doc/requirements.txt
