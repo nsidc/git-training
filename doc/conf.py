@@ -79,7 +79,7 @@ latex_documents = [(
     False,
 )]
 
-latex_logo = '../nsidc-logo.svg'
+latex_logo = './_images/nsidc-logo.svg'
 
 latex_show_urls = 'footnote'
 
