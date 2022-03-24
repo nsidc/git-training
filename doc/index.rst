@@ -4,7 +4,7 @@ NSIDC Git Training
 
 
 ..
-    The "Main" or "root" table of contents tree.
+    The "main" or "root" table of contents tree.
 .. toctree::
     :maxdepth: 1
     :hidden:
