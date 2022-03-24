@@ -1,8 +1,3 @@
-==================
-NSIDC Git Training
-==================
-
-
 ..
     The "main" or "root" table of contents tree.
 .. toctree::
