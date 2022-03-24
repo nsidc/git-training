@@ -21,3 +21,9 @@ NSIDC Git Training
     :glob:
 
     reference/*
+
+
+..
+    Add the contents of `home.md` to this page.
+.. include:: home.md
+    :parser: myst_parser.sphinx_
