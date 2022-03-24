@@ -1,4 +1,4 @@
-# Cheat Sheet
+# Cheat sheet
 
 A quick reference of Git commands.
 
