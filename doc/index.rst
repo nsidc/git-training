@@ -15,6 +15,16 @@
     reference/*
 
 
+.. toctree::
+    :name: Discussion
+    :caption: Discussion
+    :maxdepth: 1
+    :hidden:
+    :glob:
+
+    discussion/*
+
+
 ..
     Add the contents of `home.rst` to this page.
 .. include:: home.rst
