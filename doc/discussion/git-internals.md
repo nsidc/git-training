@@ -79,6 +79,10 @@ read.
 
 #### A `commit` object
 
+![Commit diagram](https://git-scm.com/book/en/v2/images/commit-and-tree.png)
+
+_Credit: Pro Git 2nd Edition_
+
 A `commit` object has two pieces of data (keep in mind, "objects" are data and
 are referenced by hash. Everything else is metadata): a `tree`, which is its
 own type of object that we'll explore later, and a `parent`. Finally the commit
@@ -109,6 +113,10 @@ $ date -d @1647034766
 Fri 11 Mar 2022 02:39:26 PM MST
 ```
 
+![Parent relationship diagram](https://git-scm.com/book/en/v2/images/commits-and-parents.png)
+
+_Credit: Pro Git 2nd Edition_
+
 The `parent` is just another `commit` object. The `parent` relationship is what
 establishes the structure of the git history. Just like with humans, parents
 are ancestors, or past versions. Children are descendents, or future versions.
@@ -119,7 +127,7 @@ zero parents), and zero to many children.
 > multiple parents for a commit that results from a merge of two or more
 > branches.
 
-[Pro Git Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
+[Pro Git 2nd Ed. Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
 
 By looking at the `parent` object, we can see that `Matt Fisher` first
 performed a change called `Extract planning to its own doc`, then another
