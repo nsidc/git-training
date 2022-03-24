@@ -183,6 +183,35 @@ Learn to use `git`!
 ```
 
 
+## Hashes
+
+Git's hashes are (usually) `sha1` hashes calculated on the type, size, and
+contents of an object. The hashes are deterministic, meaning the hash will
+always be the same for the same content. They are not random as they appear!
+
+We can manually re-generate the hash of commit `dff557a` like so:
+
+```
+$ content=$(git cat-file -p dff557a)
+$ size=$(git cat-file -s dff557a)
+$ type=$(git cat-file -t dff557a)
+
+$ echo $content
+tree be8302d77917a381cd91bb04901eace1d542ae47 parent cb775ec187cc757e55f4c9255a12ebb2b97b8846 author Matt Fisher <matt.fisher@nsidc.org> 1647034766 -0700 committer Matt Fisher <matt.fisher@nsidc.org> 1647034766 -0700 Add SSH key instructions link
+
+$ echo $size
+248
+
+$ echo $type
+commit
+
+$ echo -e "$type $size\x00$content" | sha1sum
+dff557a5cdaa8b7a826d74ce82fd65c878d2b9bd  -
+```
+
+In the end, we have an exact match!
+
+
 ## Learn more
 
 * [Git SCM - Git Internals](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
