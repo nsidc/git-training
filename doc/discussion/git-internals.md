@@ -112,8 +112,14 @@ Fri 11 Mar 2022 02:39:26 PM MST
 The `parent` is just another `commit` object. The `parent` relationship is what
 establishes the structure of the git history. Just like with humans, parents
 are ancestors, or past versions. Children are descendents, or future versions.
-Unlike with humans, each commit has only _one_ parent, but can have zero to
-many children.
+Each commit can have one to many parents (except a root commit which can have
+zero parents), and zero to many children.
+
+> zero parents for the initial commit, one parent for a normal commit, and
+> multiple parents for a commit that results from a merge of two or more
+> branches.
+
+[Pro Git Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
 
 By looking at the `parent` object, we can see that `Matt Fisher` first
 performed a change called `Extract planning to its own doc`, then another
