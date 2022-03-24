@@ -1,6 +1,5 @@
 # External resource links
 
-
 ## Text reference
 
 * [Pro Git book](https://git-scm.com/book/en/v2/)

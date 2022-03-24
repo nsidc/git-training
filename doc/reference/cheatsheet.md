@@ -1,4 +1,7 @@
-# Git Cheatsheet
+# Cheat Sheet
+
+A quick reference of Git commands.
+
 
 ## Getting started
 
