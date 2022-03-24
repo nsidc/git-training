@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/nsidc-git-training/badge/?version=latest)](https://nsidc-git-training.readthedocs.io/en/latest/?badge=latest)
+
 # Git Training
 
 ![git logo](https://git-scm.com/images/logos/2color-lightbg@2x.png)
