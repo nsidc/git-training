@@ -13,5 +13,8 @@ cd $DOCS_DIR
 # the build may be triggered too frequently, e.g. when VIM .swp files are
 # created and deleted.
 while inotifywait -e close_write --recursive $DOCS_DIR; do
+    # Allow build to fail without crashing this script
+    set +e
     $THIS_DIR/build_docs.sh
+    set -e
 done
