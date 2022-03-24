@@ -4,7 +4,7 @@ For the purposes of this training, you don't need to know anything about the
 internals of Git!
 
 
-## The hidden `.git/` folder
+## The hidden `.git/` directory
 
 The `.git/` directory exists at the root of every repository. In fact, the
 `.git/` directory is all `git` needs to work. A Git repository with only a
@@ -18,7 +18,7 @@ All of the examples in this document use real objects in this repository and
 can be reproduced on your computer!
 
 
-### Objects
+## Git objects
 
 Inside the `.git/` directory, the actual data is stored in the `objects/`
 directory, indexed by object hash. The first two characters of each hash make
@@ -36,7 +36,7 @@ Git objects are used to represent the changing state of a repository:
   contents of that file at a given point in time.
 
 
-#### Exploring some objects
+### Exploring some objects
 
 In this repository the `dff557a5cdaa8b7a826d74ce82fd65c878d2b9bd` commit is
 represented by the file below. The first 7 digits `dff557a` can be used with
@@ -77,7 +77,7 @@ Finding the object corresponding to a hash, and decompressing it for us to
 read.
 
 
-##### A commit object
+#### A `commit` object
 
 A `commit` object has two pieces of data (keep in mind, "objects" are data and
 are referenced by hash. Everything else is metadata): a `tree`, which is its
@@ -135,7 +135,7 @@ Extract planning to its own doc
 ```
 
 
-##### A `tree` object
+#### A `tree` object
 
 The `tree` object from the previous section can be abbreviated as `81e6377`. A
 `tree` object represents the structure of the files in the repo at a given
@@ -167,7 +167,7 @@ $ git cat-file -p 9aa2a16
 ```
 
 
-##### A `blob` object
+#### A `blob` object
 
 Finally, a `blob` is just a _snapshot_ of a file. The full contents of the file
 at a given time are contained in the blob.
