@@ -3,15 +3,16 @@ NSIDC Git Training
 ==================
 
 .. image:: ./_images/nsidc-logo.svg
-    :width: 200
+    :width: 140
     :alt: NSIDC logo
 
 .. image:: ./_images/git-logo.png
-    :width: 200
+    :width: 140
     :alt: Git logo
 
-Welcome to the NSIDC Git Training. To get started, you may be interested in
-these pages:
+
+Quick links
+-----------
 
 - Start here:
     - :doc:`./reference/prerequisites`
