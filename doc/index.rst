@@ -14,7 +14,9 @@
     :hidden:
     :glob:
 
-    how-to/*
+    how-to/basics.md
+    how-to/navigation.md
+    how-to/contributing.md
 
 
 .. toctree::
