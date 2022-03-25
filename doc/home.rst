@@ -26,4 +26,5 @@ these pages:
 
 - Useful reference material:
     - :doc:`./reference/glossary`
+    - :doc:`./reference/best-practices-and-good-habits`
     - :doc:`./reference/external-resources`
