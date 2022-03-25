@@ -1,6 +1,11 @@
 # Cheat sheet
 
-A quick reference of Git commands.
+```{contents}
+---
+depth: 3
+local:
+---
+```
 
 
 ## Getting started

@@ -18,7 +18,6 @@ these pages:
 - Beginner tutorials:
     - TODO
 - Common How Tos:
-    - TODO
+    - :doc:`./how-to/cheatsheet`
 - Useful reference material:
-    - :doc:`./reference/cheatsheet`
     - :doc:`./reference/glossary`

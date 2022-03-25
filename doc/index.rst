@@ -8,6 +8,16 @@
 
 
 .. toctree::
+    :name: How-to
+    :caption: How-to
+    :maxdepth: 1
+    :hidden:
+    :glob:
+
+    how-to/*
+
+
+.. toctree::
     :name: Reference
     :caption: Reference
     :maxdepth: 1
