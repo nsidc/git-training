@@ -14,7 +14,36 @@ Often when Git fails to do something, it will give you helpful hints to fix
 your command.
 
 
-## When to branch
+## When to commit
+
+Commit when you've "done one good (small) thing". This might be fixing a
+formatting issue, correcting a typo, refactoring a function, or adding a
+comment. Try to make your commits small and self-contained changes that can be
+easily described in a short commit message.
+
+
+## What to write in a commit message
+
+Commit messages should be written in "imperative voice", as though you are
+commanding someone to take an action. Commits messages should not end in
+punctuation. Commit messages should be less than 80 characters. Details can be
+added after a blank line.
+
+Correct:
+
+- `Add type signature`
+- `Create type annotations`
+
+Incorrect:
+
+- `Add type signature.` (ends in period)
+- `Adding a type signature` (incorrect voice)
+- `Added a type signature` (incorrect voice)
+- `Made a type signature that says the arguments are both strings and the
+  return value is an integer` (too long, incorrect voice)
+
+
+## When to create a branch
 
 You might create a new branch for various reasons, e.g.:
 
@@ -27,27 +56,19 @@ You might create a new branch for various reasons, e.g.:
   trust that `main` will always work.
 
 
-## When to commit
+## When to merge a branch
 
-Commit when you've "done one good thing". Try to make your commits small and
-self-contained changes that can be easily described in a short commit message.
+A branch should only exist as long as is needed to complete one "big thing",
+like implementing a feature or fixing a bug. Merge it and move on once you're
+sure you're done with that thing. Some things are big and require long-lasting
+branches. You may want to break the large feature into smaller features, each
+of which are implemented in branches created from the large feature branch.
 
 
-## Commit message
+## What to name a branch
 
-Commit messages should be written in "imperative voice", as though you are
-commanding someone to take an action. Commits messages should not end in
-punctuation. Commit messages should be less than 80 characters. Details can be
-added after a blank line.
-
-Correct:
-
-- "Add type signature"
-- "Create type annotations"
-
-Incorrect:
-
-- "Add type signature." (ends in period)
-- "Added a type signature" (incorrect voice)
-- "Made a type signature that says the arguments are both strings and the
-  return value is an integer" (too long, incorrect voice)
+Branches should be named after the goal of the branch. For example, if you're
+trying to fix the issue CMZ-123 in your JIRA which describes an issue with an
+API document, your branch might be called `CMZ-123-fix-api-documentation`. Or
+if your team is planning to overhaul the documentation, you may have a large
+branch titled `documentation-overhaul`.
