@@ -3,6 +3,8 @@
 Some of these terms are git-specific, and some of them are more generic
 version-control terms.
 
+See also: https://git-scm.com/docs/gitglossary
+
 
 ## Version Control System (VCS)
 
