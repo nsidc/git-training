@@ -34,6 +34,8 @@
 TODO: Add/improve descriptive text
 ```
 
+* [Official Git Tutorial](https://git-scm.com/docs/gittutorial): Can also be accessed
+  with the command `man gittutorial` on any computer with `git` installed.
 * [GitHub: Ramp Up on Git and GitHub](https://lab.github.com/githubtraining/ramp-up-on-git-and-github)
 * [KataCoda](https://www.katacoda.com/courses/git): O'Reilly interactive Git courses.
 * [CodeAcademy](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
