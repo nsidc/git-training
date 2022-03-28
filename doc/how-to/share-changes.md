@@ -1,4 +1,4 @@
-# Contributing
+# Share changes
 
 ## Creating a new branch
 
