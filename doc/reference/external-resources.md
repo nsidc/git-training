@@ -9,8 +9,12 @@
     Recording changes to the repository
   * [Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching):
     Branches in a Nutshell
-* [Git Ready](https://gitready.com/): On the dated side.
 * [Git's official list of GUIs](https://git-scm.com/downloads/guis)
+* [Git Workflows](https://git-scm.com/docs/gitworkflows): Also accessible with the
+  command `man gitworkflows` on any computer with `git` installed.
+* [Git Everyday](https://git-scm.com/docs/giteveryday): Also accessible with the command
+  `man giteveryday` on any computer with `git` installed.
+* [Git Ready](https://gitready.com/): On the dated side.
 
 
 ## Posts / discussions / explanations
@@ -35,7 +39,8 @@ TODO: Add/improve descriptive text
 ```
 
 * [Official Git Tutorial](https://git-scm.com/docs/gittutorial): Can also be accessed
-  with the command `man gittutorial` on any computer with `git` installed.
+  with the command `man gittutorial` or `man gittutorial-2` on any computer with `git`
+  installed.
 * [GitHub: Ramp Up on Git and GitHub](https://lab.github.com/githubtraining/ramp-up-on-git-and-github)
 * [KataCoda](https://www.katacoda.com/courses/git): O'Reilly interactive Git courses.
 * [CodeAcademy](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
