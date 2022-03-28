@@ -1,6 +1,7 @@
-# Built-in help 
+# Get help from Git
 
-Git offers built-in documentation that's accessible through `man` or `git` commands.
+Git offers built-in documentation that's accessible through `man` or `git` commands, as
+well as the ability to make context-aware suggestions to help the user.
 
 
 ## How to get help with a command
@@ -24,3 +25,23 @@ git help push
 * Tutorials: `man gittutorial`, `man gittutorial-2`
 * Workflows: `man gitworkflows`
 * Everyday Git: `man giteveryday`
+
+
+## How to ask Git for a hint about your current situation
+
+git status can be used to view the local state of your repo and provide a 
+hint for the next possible actions that could be taken.
+
+```
+git status
+```
+
+Example output:
+
+```
+On branch main
+Your branch is behind 'origin/main' by 4 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+nothing to commit, working tree clean
+```

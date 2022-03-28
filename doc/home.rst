@@ -23,11 +23,7 @@ Quick links
     - Discussion: :doc:`./discussion/about-git`
     - Beginner tutorials:
         - TODO
-
-- Common How Tos:
-    - :doc:`./how-to/basics`
-    - :doc:`./how-to/navigation`
-    - :doc:`./how-to/contributing`
+    - The "How To" section on the left nav-bar can be used as a cheat sheet!
 
 - Useful reference material:
     - :doc:`./reference/glossary`
