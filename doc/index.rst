@@ -16,6 +16,7 @@
 
     how-to/built-in-help.md
     how-to/create-or-copy.md
+    how-to/make-changes.md
     how-to/navigation.md
     how-to/share-changes.md
 
