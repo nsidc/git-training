@@ -1,6 +1,6 @@
 # Make changes
 
-## Edit some content
+## How to edit some content
 
 Just use your favorite editor, open a file, and save it.
 
@@ -8,14 +8,14 @@ You can run `git status` to see that your changed file is "not staged for commit
 is displayed in red.
 
 
-## Stage your change for commit
+## How to stage your change for commit
 
 ```
 git add <file(s)>
 ```
 
 
-## Commit staged changes
+## How to commit staged changes
 
 ```
 git commit --verbose

@@ -23,7 +23,7 @@ In git <v2.23 (not recommended):
 ```
 
 
-## Merge a branch
+## How to merge a branch
 
 To merge branch `<branchname>` into the currently checked-out branch:
 
