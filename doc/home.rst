@@ -11,6 +11,10 @@ NSIDC Git Training
     :alt: Git logo
 
 
+.. include:: what-to-expect.md
+    :parser: myst_parser.sphinx_
+
+
 Quick links
 -----------
 
