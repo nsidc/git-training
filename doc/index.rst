@@ -14,10 +14,10 @@
     :hidden:
     :glob:
 
+    how-to/built-in-help.md
     how-to/basics.md
     how-to/navigation.md
     how-to/contributing.md
-    how-to/built-in-documentation.md
 
 
 .. toctree::
