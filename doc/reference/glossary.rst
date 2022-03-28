@@ -1,10 +1,13 @@
 Glossary
 ========
 
-Some of these terms are git-specific, and some of them are more generic
+Some of these terms are Git-specific, and some of them are more generic
 version-control terms.
 
-See also: https://git-scm.com/docs/gitglossary
+.. note:: Check out the official glossary, too!
+
+  The official Git glossary can be viewed by running the command :code:`man gitglossary`
+  or viewing https://git-scm.com/docs/gitglossary
 
 
 .. glossary::
@@ -135,9 +138,12 @@ See also: https://git-scm.com/docs/gitglossary
 
 
   Staging area
-    The staging area is where your changes are prepared for a commit. They are added to
-    the staging area with :code:`git add`. Once the staging area is ready, you turn it
-    into a :term:`commit<Commit>` with :code:`git commit`.
+    The "staging area" is where your changes are prepared for a commit. They are added
+    to the staging area with :code:`git add`. Once the staging area is ready, you turn
+    it into a :term:`commit<Commit>` with :code:`git commit`.
+
+    Also sometimes refered to as the "Index" or "Cache" in Git's documentation and
+    commands.
 
     See :doc:`/discussion/file-state` for more.
 
