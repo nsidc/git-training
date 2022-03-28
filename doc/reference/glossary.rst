@@ -1,6 +1,11 @@
 Glossary
 ========
 
+..
+  This document should be written to supplement the official Git glossary. This document
+  should focus on helping people understand or remember concepts, e.g. metaphors,
+  mnemonics.
+
 Some of these terms are Git-specific, and some of them are more generic
 version-control terms.
 
