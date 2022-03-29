@@ -15,10 +15,11 @@
     :name: Tutorials
     :caption: Tutorials
     :maxdepth: 1
+    :numbered:
     :hidden:
 
-    tutorial/working-locally.md
-    tutorial/working-with-others.md
+    tutorial/working-locally/index.rst
+    tutorial/working-with-others/index.rst
 
 
 .. toctree::
