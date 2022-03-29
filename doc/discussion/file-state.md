@@ -1,6 +1,6 @@
 # File state
 
-Before reading this section, please see the :term:`File state` Glossary entry.
+Before reading this section, please see the {term}`File state` Glossary entry.
 
 For more, see [Chapter 2.2 of Pro
 Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
