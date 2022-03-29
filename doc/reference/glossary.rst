@@ -106,7 +106,7 @@ version-control terms.
       up in the "Changes to be committed" section in green in :code:`git status`.
       :code:`git commit` will create a new :term:`commit<Commit>` from all staged files.
     
-    See :doc:`/discussion/file-state` for more.
+    See :doc:`/reference/lifecycle` for more.
 
 
   History
@@ -125,7 +125,7 @@ version-control terms.
     The History exists entirely in the :code:`.git/` directory of your repository and is
     managed by `git` commands.
 
-    See :doc:`/discussion/git-internals` and :doc:`/discussion/file-state` for more.
+    See :doc:`/discussion/git-internals` and :doc:`/reference/lifecycle` for more.
 
 
   Working tree
@@ -140,7 +140,7 @@ version-control terms.
     have any number of working trees associated with a Git repository, including zero
     (this is called a "bare" repository)!
 
-    See :doc:`/discussion/file-state` for more.
+    See :doc:`/reference/lifecycle` for more.
 
 
   Staging area
@@ -151,7 +151,7 @@ version-control terms.
     Also sometimes refered to as the "Index" or "Cache" in Git's documentation and
     commands.
 
-    See :doc:`/discussion/file-state` for more.
+    See :doc:`/reference/lifecycle` for more.
 
 
   Checkout
