@@ -128,7 +128,7 @@ commit message we entered with the `-m` argument to `git commit`.
 We can get a more compressed view of the history like so:
 
 ```
-$ git log --graph --decorate --oneline
+$ git log --graph --decorate --oneline --all
 * 075bbc6 (HEAD -> main) Add marbles.txt
 ```
 

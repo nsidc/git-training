@@ -111,7 +111,7 @@ errors in it.
 We can use this compressed version of `git log` to validate at a glance:
 
 ```
-$ git log --graph --decorate --oneline
+$ git log --graph --decorate --oneline --all
 * 6589abd (HEAD -> main) Fix errors on the second line
 * 4f88912 Fix errors in first line
 * 075bbc6 Add marbles.txt
