@@ -129,11 +129,14 @@ are ancestors, or past versions. Children are descendents, or future versions.
 Each commit can have one to many parents (except a root commit which can have
 zero parents), and zero to many children.
 
-> zero parents for the initial commit, one parent for a normal commit, and
-> multiple parents for a commit that results from a merge of two or more
-> branches.
+```{epigraph}
 
-[Pro Git 2nd Ed. Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
+zero parents for the initial commit, one parent for a normal commit, and
+multiple parents for a commit that results from a merge of two or more
+branches.
+
+-- [Pro Git 2nd Ed. Chapter 3.1](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#ch03-git-branching)
+```
 
 By looking at the `parent` object, we can see that `Matt Fisher` first
 performed a change called `Extract planning to its own doc`, then another
