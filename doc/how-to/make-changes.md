@@ -1,4 +1,4 @@
-# Make changes
+# Make changes (add, commit)
 
 ## How to edit some content
 

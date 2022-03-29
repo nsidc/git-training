@@ -1,4 +1,4 @@
-# Get help from Git
+# Get help from Git (man, help, status)
 
 Git offers built-in documentation that's accessible through `man` or `git` commands, as
 well as the ability to make context-aware suggestions to help the user.

@@ -1,4 +1,4 @@
-# Create or copy repositories
+# Create or copy repositories (init, clone)
 
 ## How to initialize a new repository
 
