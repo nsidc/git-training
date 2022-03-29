@@ -30,3 +30,17 @@ you've written a commit message, save the file and close it to finalize the comm
 
 See {doc}`/reference/best-practices-and-good-habits` for more on writing good
 commit messages.
+
+
+## How to restore a file to its committed state
+
+If you've made a mistake and want to restore a file to its known good state:
+
+```
+git restore -- myfile.txt
+```
+
+If you want to restore a specific version of a file from a ref:
+
+```
+git restore --source=<ref> -- myfile.txt
