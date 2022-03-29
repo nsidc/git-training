@@ -1,4 +1,4 @@
-# Fix an error on the "main" branch
+# "Diverge" by fixing an error on the `main` branch
 
 A colleague has asked you to create a version of this document with more spelling and
 grammar corrections applied. You're not ready with your changes on the
