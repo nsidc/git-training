@@ -19,6 +19,7 @@
 
 ## Posts / discussions / explanations
 
+* [Git for Scientists](https://neurathsboat.blog/post/git-intro/)
 * [Git is Simpler Than You Think](https://nfarina.com/post/9868516270/git-is-simpler): A
   from-first-principles explanation of Git that highlights its underlying simplicity.
 * [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html): A
