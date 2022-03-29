@@ -19,7 +19,7 @@
     how-to/make-changes.md
     how-to/comparison.md
     how-to/branch-and-merge.md
-    how-to/navigation.md
+    how-to/checkout.md
     how-to/share-changes.md
 
 
