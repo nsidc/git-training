@@ -3,6 +3,12 @@
 At this point, let's say you realize that you need to work on a change without
 disrupting the `main` branch, which other people (or you) might be relying on.
 
+Typically, the `main` branch is treated by teams as the source of truth, and effort is
+made to ensure that all commits on `main` are "correct" (i.e. accurate information, or
+working code). Since branching is so easy and fast in `git`, there is no reason _not_ to
+do all of our work in branches!
+
+
 ## Create a new branch
 
 Run `git branch` to see which branches currently exist:
