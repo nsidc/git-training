@@ -136,9 +136,9 @@ version-control terms.
     It's considered clean when there are no changes in the working tree compared to the
     currently checked-out ref.
 
-    Working trees are entirely independent of the actual repository's state, so it's
-    possible to have any number of working trees associated with a Git repository,
-    including zero (this is called a "bare" repository)!
+    Working trees are entirely independent of the :term:`History`, so it's possible to
+    have any number of working trees associated with a Git repository, including zero
+    (this is called a "bare" repository)!
 
     See :doc:`/discussion/file-state` for more.
 
