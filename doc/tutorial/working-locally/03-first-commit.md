@@ -15,9 +15,9 @@ No commits yet
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-          marbles.txt
+      marbles.txt
 
-          nothing added to commit but untracked files present (use "git add" to track)
+      nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 In the output above, `git` has recommended that we use `git add` to "track" this new
@@ -56,9 +56,9 @@ $ git commit -m "Add marbles.txt"
   create mode 100644 marbles.txt
 ```
 
-This will create a snapshot (called a {term}`commit<Commit>` in Git parlance) of our new
-file in the staging area, `marbles.txt`. The argument `-m "Add marbles.txt"` sets a
-commit message.
+This will created a snapshot (called a {term}`commit<Commit>` in Git parlance) of our
+new file in the staging area, `marbles.txt`. The argument `-m "Add marbles.txt"` set a
+commit message, which describes our change.
 
 In the output above, we can see that a new commit was created, and it was given the
 unique {term}`hash<Hash>` `075bbc6`. One file was changed (`marbles.txt`), and seven
