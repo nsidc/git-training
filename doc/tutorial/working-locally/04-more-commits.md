@@ -1,6 +1,6 @@
 # Make changes and take more snapshots!
 
-For our next snapshots, you will fix errors in this content one line at a time and make
+For your next snapshots, you will fix errors in this content one line at a time and make
 commits (previously referred to as taking snapshots, but we're going to use the official
 terminology from here on) with each change.
 
@@ -30,9 +30,9 @@ Changes not staged for commit:
     no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-Once again, Git is suggesting using `git add` to prepare our changes for commit. We also
-know how to commit the changes once we've added them. However, it's never a bad idea to
-check our change first.
+Once again, Git is suggesting using `git add` to prepare your changes for commit. You
+already know how to commit the changes once you've added them. However, it's never a bad
+idea to check your change first.
 
 ```
 $ git diff
@@ -49,11 +49,11 @@ index c7108ef..99e3a6e 100644
 ```
 
 This output is confusing at first, but focus on the lines which start with `-` and `+`.
-These are our change. The `-` line is the "before" text, and the `+` line is the "after"
-text for the first line of the `marbles.txt` file. This looks like an accurate
-representation of our change!
+These are your change. The `-` line is the "before" text, and the `+` line is the
+"after" text for the first line of the `marbles.txt` file. This looks like an accurate
+representation of your change!
 
-Now we're ready to commit our changes.
+Now you're ready to commit your changes.
 ```
 $ git add marbles.txt
 $ git commit -m "Fix errors in first line"
@@ -85,7 +85,7 @@ Save `marbles.txt`.
 
 ## Commit the second batch of fixes
 
-Since we already know how to commit the changes in two steps, here's a shortcut to do it
+Since you already know how to commit the changes in two steps, here's a shortcut to do it
 in one command -- the "add" occurs automatically:
 
 ```
@@ -103,9 +103,9 @@ list of files. This is just another option, not "better" than doing `git add` fi
 ```
 
 
-## Check our progress
+## Check your progress
 
-Now we should have three commits. One which added the `marbles.txt`, and two for fixing
+Now you should have three commits. One which added the `marbles.txt`, and two for fixing
 errors in it.
 
 We can use this compressed version of `git log` to validate at a glance:
@@ -123,6 +123,7 @@ more commits.
 
 ```{note}
 
-You may have noticed that the commit messages have a common style. See ...TODO... for
-more information on writing commit messages.
+You may have noticed that the commit messages have a common style. See
+{doc}`/reference/best-practices-and-good-habits` for more information on writing commit
+messages.
 ```
