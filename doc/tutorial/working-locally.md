@@ -5,10 +5,11 @@ create and work on independent {term}`branches<Branch>`, and merge work from dif
 branches.
 
 Before starting this tutorial, you should have Git installed (TODO: Link) and a
-comfortable text editor configured (TODO: Link).
+comfortable text editor configured (TODO: Link). You should be comfortable working with
+files and directories in your operating system of choice.
 
 This tutorial is intended to be followed step-by-step from beginning to end. If you're
-looking for help with specific tasks, check out the How-Tos instead.
+looking for help with specific tasks, check out the How-Tos instead!
 
 
 ## Create a new Git repository
