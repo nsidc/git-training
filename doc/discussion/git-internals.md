@@ -79,9 +79,12 @@ read.
 
 #### A `commit` object
 
-![Commit diagram](https://git-scm.com/book/en/v2/images/commit-and-tree.png)
-
-_Credit: Pro Git 2nd Edition_
+```{figure} https://git-scm.com/book/en/v2/images/commit-and-tree.png
+---
+alt: Commit diagram
+---
+Credit: Pro Git 2nd Edition
+```
 
 A `commit` object has two pieces of data (keep in mind, "objects" are data and
 are referenced by hash. Everything else is metadata): a `tree`, which is its
@@ -113,9 +116,12 @@ $ date -d @1647034766
 Fri 11 Mar 2022 02:39:26 PM MST
 ```
 
-![Parent relationship diagram](https://git-scm.com/book/en/v2/images/commits-and-parents.png)
-
-_Credit: Pro Git 2nd Edition_
+```{figure} https://git-scm.com/book/en/v2/images/commits-and-parents.png
+---
+alt: Parent relationship diagram
+---
+Credit: Pro Git 2nd Edition
+```
 
 The `parent` is just another `commit` object. The `parent` relationship is what
 establishes the structure of the git history. Just like with humans, parents
