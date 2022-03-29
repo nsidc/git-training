@@ -8,10 +8,9 @@ Expect to learn fundamental and simple building blocks that will enable you to:
 - Confidently self-direct learning intermediate and advanced concepts.
 
 While the concepts you will learn are simple, the Git interface is not intuitive, and
-you should expect it to be frustrating at times.
-
-Expect to internalize this training only with practice. Integrate Git with your daily
-work flow and learning will be a breeze.
+you should expect it to be frustrating at times. Expect to internalize this training
+only with practice. Integrate Git with your daily work flow and learning will be a
+breeze.
 
 
 ## What this training is not
