@@ -14,7 +14,7 @@
     :hidden:
     :glob:
 
-    how-to/built-in-help.md
+    how-to/help.md
     how-to/create-or-copy.md
     how-to/make-changes.md
     how-to/comparison.md

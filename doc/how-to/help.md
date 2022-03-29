@@ -1,4 +1,4 @@
-# Get help from Git (man, help, status)
+# Help and introspection (man, help, status, log)
 
 Git offers built-in documentation that's accessible through `man` or `git` commands, as
 well as the ability to make context-aware suggestions to help the user.
@@ -44,4 +44,18 @@ Your branch is behind 'origin/main' by 4 commits, and can be fast-forwarded.
   (use "git pull" to update your local branch)
 
 nothing to commit, working tree clean
+```
+
+
+## How to visualize the Git History
+
+```
+git log
+```
+
+The default display is long-form information about commits, but if you have lots of
+commits or want to view the branching structure of your history, you may want to try:
+
+```
+git log --graph --decorate --oneline  --all
 ```
