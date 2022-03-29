@@ -15,17 +15,18 @@ NSIDC Git Training
     :parser: myst_parser.sphinx_
 
 
-Quick links
------------
+How to use these materials
+--------------------------
 
-- Start here:
-    - :doc:`./reference/prerequisites`
-    - Discussion: :doc:`./discussion/about-git`
-    - Beginner tutorials:
-        - TODO
-    - The "How To" section on the left nav-bar can be used as a cheat sheet!
+- Ensure you have the right things installed: :doc:`/reference/prerequisites`
 
-- Useful reference material:
+- Learn about what Git is for: :doc:`./discussion/about-git`
+
+- Do the beginner tutorial: :doc:`/tutorial/working-locally/index`
+
+- See the "How To"s on the left nav-bar. They can be used as a Git cheat sheet!
+
+- Selected reference materials:
     - :doc:`./reference/glossary`
     - :doc:`./reference/best-practices-and-good-habits`
     - :doc:`./reference/external-resources`
