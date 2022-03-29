@@ -52,6 +52,16 @@ $ git log --graph --decorate --oneline --all
 With four labels on one commit (`HEAD`, one tag, and two branches), things are looking a
 bit crowded.
 
+List only branches with `git branch`:
+
+```
+$ git branch
+* add-safety-warning
+  main
+```
+
+Now you two branches, and the `*` indicates which is active.
+
 
 ## Apply a safety warning on this branch
 
