@@ -7,12 +7,25 @@
     acknowledgements.md
 
 
+..
+    The four categories of documentation according to Diataxis: Tutorials, How-tos,
+    Reference, and Discussion:
+
+.. toctree::
+    :name: Tutorials
+    :caption: Tutorials
+    :maxdepth: 1
+    :hidden:
+
+    tutorial/working-locally.md
+    tutorial/working-with-others.md
+
+
 .. toctree::
     :name: How-to
     :caption: How-to
     :maxdepth: 1
     :hidden:
-    :glob:
 
     how-to/help.md
     how-to/create-or-copy.md
