@@ -12,6 +12,13 @@
 * [Git's official list of GUIs](https://git-scm.com/downloads/guis)
 * [Git Workflows](https://git-scm.com/docs/gitworkflows): Also accessible with the
   command `man gitworkflows` on any computer with `git` installed.
+  * [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+    **Recommended** simple workflow.
+  * [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow):
+    Same as "GitHub Flow".
+  * [Forking Worflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+* [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): "A guide [...]
+  about what to do when things go wrong."
 * [Git Everyday](https://git-scm.com/docs/giteveryday): Also accessible with the command
   `man giteveryday` on any computer with `git` installed.
 * [Git Ready](https://gitready.com/): On the dated side.
