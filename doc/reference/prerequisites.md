@@ -59,4 +59,4 @@ where you feel massive satisfaction and pride in a new skill which will benefit
 you for the rest of your career. 
 
 Don't hesitate to ask for help from your colleagues if you feel stuck. Start in
-the `#tech-topics` Slack channel if you are on the NSIDC Slack.
+the `#git` Slack channel if you are on the NSIDC Slack.
