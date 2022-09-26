@@ -1,5 +1,5 @@
-Working with Git locally
-========================
+Intro to Git through CLI commands
+=================================
 
 In this tutorial, you will create a Git repository, make and track several changes,
 create and work on independent {term}`branches<Branch>`, and merge work from different
@@ -15,8 +15,8 @@ files and directories in your operating system of choice.
 
 
 .. toctree::
-    :name: Tutorial #1 steps
-    :caption: Tutorial #1 steps
+    :name: Tutorial #1b steps
+    :caption: Tutorial #1b steps
     :maxdepth: 1
     :glob:
 
