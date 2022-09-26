@@ -29,7 +29,8 @@ For more involved edits, maybe including mulitple files, using GitHub.dev. The G
 4. Review your changes. 
 5. If the change is small, you can commit directly to the branch you were on when browsing the files on GitHub.com
 6. If the change is large, you can create a new branch from the `...` menu.
-5. When you're finished, enter a commit message in the dialog box and select CTRL+Enter to finalize the commit
+7. When you're finished, enter a commit message in the dialog box and select CTRL+Enter to finalize the commit
+8. Finally, use the hamburge icon `=` in the top left and select `Go to Repository`
 
 # Adding a file or sub-folder to an existing project
 
