@@ -7,3 +7,5 @@
    + [X] Add .gitignore (choose your language)
    + [X] License: Whichever is appropriate for your project. Creative Commons are a good default.
 4. Click the green **Create repository** button
+
+![New repository](https://github.com/nsidc/git-training/raw/main/doc/_images/gh-new.png)
