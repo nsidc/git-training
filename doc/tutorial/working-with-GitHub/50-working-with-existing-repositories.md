@@ -23,7 +23,7 @@ For simple edits, use edit with GitHub.com
 
 For more involved edits, maybe including mulitple files, using GitHub.dev. The GitHub.dev interface is a powerful code editor in your browser. For example, you can work on multiple files with tabs, or you can use split view and view realtime rendered Markdown files as you edit them.
 
-1. Select `Open in github.dev` from the `v` dropdown next to the pen icon.
+0. When viewing an project, folder, or file on GitHub.com, edit the URL from `.com` to `.dev` to enter the GitHub.dev application.
 2. Edit the file or files
 3. When you are done with your edits, select the `Source Control` icon (`CTRL+SHFT+G`) in the sidebar.
 4. Review your changes. 
