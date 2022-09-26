@@ -58,11 +58,16 @@ NOTE: Should this be before the branching/merging tutorial or after?
 
 ### Tutorial 2: Branching and merging at the CLI
 
+* What do branches do for me?
+* What are conflicts? How do I resolve conflicts?
+
 
 ### Discussion: Merge strategies
 
 * Fast-forward
-* ...
+* Squash
+
+NOTE: Integrate this information into branching/merging tutorial?
 
 
 ### Tutorial 3: Pull requests
