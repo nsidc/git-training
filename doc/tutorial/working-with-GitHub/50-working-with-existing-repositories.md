@@ -27,7 +27,9 @@ For more involved edits, maybe including mulitple files, using GitHub.dev. The G
 2. Edit the file or files
 3. When you are done with your edits, select the `Source Control` icon (`CTRL+SHFT+G`) in the sidebar.
 4. Review your changes. 
-5. When you're finished, enter a commit message in the dialog box and select enter
+5. If the change is small, you can commit directly to the branch you were on when browsing the files on GitHub.com
+6. If the change is large, you can create a new branch from the `...` menu.
+5. When you're finished, enter a commit message in the dialog box and select CTRL+Enter to finalize the commit
 
 # Adding a file or sub-folder to an existing project
 
