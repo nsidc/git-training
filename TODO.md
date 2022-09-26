@@ -1,3 +1,10 @@
+# Move to GitHub
+
+We're shifting our focus towards GitHub in other areas. We should not confuse these
+materials with BitBucket stuff. Worth noting where BitBucket does/does not offer similar
+features to GitHub in materials.
+
+
 # Make the structure/order of the materials more clear
 
 * How should people use these training materials? In what order?
