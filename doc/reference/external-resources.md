@@ -49,6 +49,7 @@ TODO: Add/improve descriptive text
 * [Official Git Tutorial](https://git-scm.com/docs/gittutorial): Can also be accessed
   with the command `man gittutorial` or `man gittutorial-2` on any computer with `git`
   installed.
+* [Git in two minutes for a solo developer](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
 * [GitHub: Ramp Up on Git and GitHub](https://lab.github.com/githubtraining/ramp-up-on-git-and-github)
 * [KataCoda](https://www.katacoda.com/courses/git): O'Reilly interactive Git courses.
 * [CodeAcademy](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
