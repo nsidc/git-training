@@ -84,3 +84,6 @@ NOTE: Should this be before the branching/merging tutorial or after?
 * Dedicated section for workflow-focused cheat sheets? The "How-to" section currently
   contains that material.
 * Cheat sheets paired with tutorial contents?
+* A "style guide" or "symbology" page? Would be useful to document re-usable elements
+  like BitBucket/GitLab compatibility notes, authors' notes, warnings, format standards
+  for images/captions, etc.
