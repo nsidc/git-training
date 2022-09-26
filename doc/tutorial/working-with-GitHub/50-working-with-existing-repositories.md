@@ -11,7 +11,7 @@ For simple edits, use edit with GitHub.com
 
 1. Click on the `pen` icon, or select `Edit this file` from the `v` dropdown next to the pen icon
 
-![Edit a file](https://github.com/nsidc/git-training/raw/main/doc/_images/gh-edit-file.png)
+![Edit a file](./_images/gh-edit-file.png)
 
 2. Edit the file
 3. When done editing, it is important to leave a `commit message` documenting what changes you made
@@ -23,7 +23,7 @@ For simple edits, use edit with GitHub.com
 4. Select the `Commit changes` button
 
 
-![Commit changes](https://github.com/nsidc/git-training/raw/main/doc/_images/gh-commit-changes.png)
+![Commit changes](./_images/gh-commit-changes.png)
 
 
 <!--

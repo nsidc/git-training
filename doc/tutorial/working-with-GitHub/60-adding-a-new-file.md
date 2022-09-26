@@ -7,5 +7,5 @@
 3. If you add a `/` to the end of your new file name, it becomes a folder
 4. Edit the file after you name it. See above for instructions on how to edit and commit a file
 
-![Add a file or folder](https://github.com/nsidc/git-training/raw/main/doc/_images/gh-add-file.png)
+![Add a file or folder](./_images/gh-add-file.png)
 
