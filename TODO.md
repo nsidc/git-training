@@ -18,6 +18,11 @@ don't _need_ to understand the history as a DAG but it may help some learners.
 
 ## Guided learning
 
+The most attention-drawing thing a user sees when they first load the page should be an
+outline of the materials suggesting where to start and how to progress. The sidebar can
+provide similar quick-navigation once the user has left the front page.
+
+
 ### Discussion: What is Git / what is Git for?
 
 * Who is Git for? What can Git do for me?
