@@ -34,7 +34,7 @@ provide similar quick-navigation once the user has left the front page.
 
 * Creating repositories with the GUI
 * Contributing to repositories with the GUI
-* Reviewing changes in GitHub CLI
+* Reviewing changes in GitHub GUI
 
 NOTE: Using GitHub GUI features first, or CLI first?
 
