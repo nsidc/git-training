@@ -25,6 +25,9 @@ You can also manually build the documentation locally on a Linux computer by
 running `./scripts/build_docs.sh`. The `./scripts/build_docs_on_change.sh` will
 build the docs every time a documentation source file is changed.
 
+After running either of these scripts, you can open the file
+`./doc/_build/html/index.html` with your browser to view the built site locally.
+
 
 ## Troubleshooting
 
