@@ -7,5 +7,6 @@
    + [X] Add .gitignore (choose your language)
    + [X] License: Whichever is appropriate for your project. Creative Commons are a good default.
 4. Click the green **Create repository** button
+5. After creating a new project, you can [add a file or folder](./60-adding-a-new-file)
 
 ![New repository](/_images/gh-new.png)

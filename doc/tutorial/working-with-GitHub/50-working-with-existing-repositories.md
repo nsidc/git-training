@@ -2,7 +2,7 @@
 
 ## Find the file
 
-1. Go to your project GitHub page. For example, this project page is https://github.com/nsidc/git-training
+1. Go to your project GitHub page. For example, this project page is [https://github.com/nsidc/git-training](https://github.com/nsidc/git-training)
 2. Navigate to the file you want to edit. Click on folders and files until you're viewing a preview of the file you want to edit
 
 ## Edit the file
@@ -19,9 +19,9 @@ For simple edits, use edit with GitHub.com
    2. If more details are needed or may be useful, leave an extended discription
    3. If the change is small, or you are working alone on your own project, you can commit directly to the branch you are on. This is probably the `main` branch
    4. If the change is large, there are other people working on the project, or you want to discuss the change with someone before finalizing it, select `Create a new branch for this commit and start a pull request`
-      + If you commit to a new branch and create a pull request, see How To Merge Pull Requests
 4. Select the `Commit changes` button
 
+If you commit to a new branch and create a pull request, you will eventually want to [merge the pull request](70-pull-requests) back to your main branch.
 
 ![Commit changes](/_images/gh-commit-changes.png)
 
