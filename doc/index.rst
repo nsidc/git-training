@@ -18,6 +18,7 @@
     :numbered:
     :hidden:
 
+    tutorial/working-with-GitHub/index.rst
     tutorial/working-locally/index.rst
     tutorial/working-with-others/index.rst
 

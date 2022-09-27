@@ -2,21 +2,33 @@
 
 ## Find the file
 
-1. Go to your project GitHub page. For example, this project page is https://github.com/nsidc/git-training
-2. Navigate to the file you want to edit. Click on folders and files until you're viewing a preview of the file you want to edit.
+1. Go to your project GitHub page. For example, this project page is [https://github.com/nsidc/git-training](https://github.com/nsidc/git-training)
+2. Navigate to the file you want to edit. Click on folders and files until you're viewing a preview of the file you want to edit
 
-### Editing the file with GitHub.com
+## Edit the file
 
 For simple edits, use edit with GitHub.com
 
-1. Click on the `pen` icon, or select `Edit this file` from the `v` dropdown next to the pen icon.
+1. Click on the `pen` icon, or select `Edit this file` from the `v` dropdown next to the pen icon
+
+![Edit a file](/_images/gh-edit-file.png)
+
 2. Edit the file
-3. When done editing, it is important to leave a `commit message` documenting what changes you made.
+3. When done editing, it is important to leave a `commit message` documenting what changes you made
    1. Leave a short one-line commit message
    2. If more details are needed or may be useful, leave an extended discription
-   3. If the change is small, you can commit directly to the branch you are on. This is probably the `main` branch.
-   4. If the change is large, or you want to discuss the change with someone before finalizing it, select `Create a new branch for this commit and start a pull request`.
-4. Select the `Commit changes` button.
+   3. If the change is small, or you are working alone on your own project, you can commit directly to the branch you are on. This is probably the `main` branch
+   4. If the change is large, there are other people working on the project, or you want to discuss the change with someone before finalizing it, select `Create a new branch for this commit and start a pull request`
+4. Select the `Commit changes` button
+
+If you commit to a new branch and create a pull request, you will eventually want to [merge the pull request](70-pull-requests) back to your main branch.
+
+![Commit changes](/_images/gh-commit-changes.png)
+
+
+<!--
+
+Suggest leaving this out for now
 
 
 ### Editing with `GitHub.dev`
@@ -32,9 +44,4 @@ For more involved edits, maybe including mulitple files, using GitHub.dev. The G
 7. When you're finished, enter a commit message in the dialog box and select CTRL+Enter to finalize the commit
 8. Finally, use the hamburge icon `=` in the top left and select `Go to Repository`
 
-# Adding a file or sub-folder to an existing project
-
-1. Navigate to the folder where you want to add a file or subfolder
-2. Select `Add file` then `Create new file`
-3. If you add a `/` to the end of your new file name, it becomes a folder
-4. Edit the file after you name it. See above for instructions on how to edit and commit a file
+-->

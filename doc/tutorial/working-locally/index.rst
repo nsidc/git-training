@@ -15,8 +15,8 @@ files and directories in your operating system of choice.
 
 
 .. toctree::
-    :name: Tutorial #1 steps
-    :caption: Tutorial #1 steps
+    :name: Tutorial #1b steps
+    :caption: Tutorial #1b steps
     :maxdepth: 1
     :glob:
 
