@@ -16,7 +16,7 @@ commits from Bitbucket and :code:`pull` your main branch up-to-date with those c
     
 
 Before starting this tutorial, you should have completed the first tutorial
-:doc:`/tutorial/working-locally/index`.
+:doc:`/tutorial/1b-intro-to-git-cli/index`.
 
 .. note::
     If you're looking for quick help with specific tasks, check out the How-Tos instead!

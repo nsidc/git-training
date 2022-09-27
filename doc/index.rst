@@ -18,7 +18,7 @@
     :numbered:
     :hidden:
 
-    tutorial/working-locally/index.rst
+    tutorial/1b-intro-to-git-cli/index.rst
     tutorial/working-with-others/index.rst
 
 

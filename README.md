@@ -31,7 +31,11 @@ After running either of these scripts, you can open the file
 
 ## Troubleshooting
 
-TODO
+### ReadTheDocs build status is not showing up in GitHub
+
+If you're sure, following RTD's instructions, that the relevant GitHub permissions are
+correct, sometimes the only way to fix this problem is to delete and recreate the
+project in RTD.
 
 
 ## License
