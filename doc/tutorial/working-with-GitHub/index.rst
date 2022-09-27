@@ -1,11 +1,11 @@
 Working with Git in your browser
-========================
+================================
 
 In this tutorial, you will create a Git repository and edit a file, all using just your browser and the GitHub website.
 
 .. toctree::
-    :name: Tutorial #1 steps
-    :caption: Tutorial #1 steps
+    :name: Tutorial #1a steps
+    :caption: Tutorial #1a steps
     :maxdepth: 1
     :glob:
 
